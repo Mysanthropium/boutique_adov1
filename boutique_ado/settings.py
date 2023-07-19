@@ -27,8 +27,8 @@ SECRET_KEY = 'django-insecure-hc7=gp^#u*6+$%auiikv3%&(g634lqq*s5!^jfg&%i2$c5a3ma
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '8000-mysanthropi-boutiqueado-bvmjyynm7bl.ws-eu101.gitpod.io',
-    'rasmus-boutique-ado.herokuapp.com',
+    'rasmus-boutique-ado-0d5076ece79e.herokuapp.com',
+    '8000-mysanthropi-boutiqueado-bvmjyynm7bl.ws-eu101.gitpod.io'
 ]
 
 
